@@ -1,0 +1,32 @@
+%% The following is a directive for TeXShop to indicate the main file
+%%!TEX root = diss.tex
+
+\chapter{Glossary}
+
+% use \acrodef to define an acronym, but no listing
+\acrodef{UI}{user interface}
+\acrodef{UBC}{University of British Columbia}
+
+% The acronym environment will typeset only those acronyms that were
+% *actually used* in the course of the document
+% The longest acronym must be passed as an argument to \begin{acronym}[here] for correct alignment
+\begin{acronym}[TIGRESS]
+\acro{SPICE}[SPICE]{Spectrometer for Internal Conversion Electrons}
+\acro{TIGRESS}[TIGRESS]{TRIUMF-ISAC Gamma-Ray Escape-Suppressed Spectrometer}
+\end{acronym}
+
+% You can also use \newacro{}{} to only define acronyms
+% but without explictly creating a glossary
+% 
+% \newacro{ANOVA}[ANOVA]{Analysis of Variance\acroextra{, a set of
+%   statistical techniques to identify sources of variability between groups.}}
+% \newacro{API}[API]{application programming interface}
+% \newacro{GOMS}[GOMS]{Goals, Operators, Methods, and Selection\acroextra{,
+%   a framework for usability analysis.}}
+% \newacro{TLX}[TLX]{Task Load Index\acroextra{, an instrument for gauging
+%   the subjective mental workload experienced by a human in performing
+%   a task.}}
+% \newacro{UI}[UI]{user interface}
+% \newacro{UML}[UML]{Unified Modelling Language}
+% \newacro{W3C}[W3C]{World Wide Web Consortium}
+% \newacro{XML}[XML]{Extensible Markup Language}
