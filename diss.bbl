@@ -1,8 +1,164 @@
-\begin{thebibliography}{0}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\begin{thebibliography}{10}
+
+\bibitem{Wood1999}
+J.~L. Wood, E.~F. Zganjar, C.~De Coster, and K.~Heyde.
+\newblock Electric monopole transitions from low energy excitations in nuclei.
+\newblock {\em Nuclear Physics A}, 651:323 -- 368, 1999.
+
+\bibitem{KraneText}
+K.S. Krane.
+\newblock {\em Introductory Nuclear Physics}.
+\newblock John Wiley and Sons, 1998.
+
+\bibitem{Kibedi2005}
+T.~Kib\'{e}di and R.~H. Spear.
+\newblock Electric monopole transitions between 0$^+$ states for nuclei
+  throughout the periodic table.
+\newblock {\em Atomic Data and Nuclear Data Tables}, 89(1):77 -- 100, 2005.
+
+\bibitem{Rose1949}
+M.~E. Rose.
+\newblock Internal pair formation.
+\newblock {\em Phys. Rev.}, 76:678--681, Sep 1949.
+
+\bibitem{Henderson2014}
+J.~Henderson, D.~G. Jenkins, P.~J. Davies, M.~Alcorta, M.~P. Carpenter, B.~P.
+  Kay, C.~J. Lister, and S.~Zhu.
+\newblock Upper limit on the two-photon emission branch for the ${0}_{2}^{+}$
+  $\ensuremath{\rightarrow}$ ${0}_{1}^{+}$ transition in ${}^{98}mo$.
+\newblock {\em Phys. Rev. C}, 89:064307, Jun 2014.
+
+\bibitem{Wood2011}
+Kris Heyde and John~L. Wood.
+\newblock Shape coexistence in atomic nuclei.
+\newblock {\em Rev. Mod. Phys.}, 83:1467--1521, Nov 2011.
+
+\bibitem{Ilie2011}
+Gabriela Ilie and Richard~F. Casten.
+\newblock $e0$ transitions in deformed nuclei.
+\newblock {\em Phys. Rev. C}, 84:064320, Dec 2011.
+
+\bibitem{Paschalis2013}
+S.~Paschalis, I.Y. Lee, A.O. Macchiavelli, C.M. Campbell, M.~Cromaz, S.~Gros,
+  J.~Pavan, J.~Qian, R.M. Clark, H.L. Crawford, D.~Doering, P.~Fallon,
+  C.~Lionberger, T.~Loew, M.~Petri, T.~Stezelberger, S.~Zimmermann, D.C.
+  Radford, K.~Lagergren, D.~Weisshaar, R.~Winkler, T.~Glasmacher, J.T.
+  Anderson, and C.W. Beausang.
+\newblock The performance of the gamma-ray energy tracking in-beam nuclear
+  array gretina.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment}, 709:44 --
+  55, 2013.
+
+\bibitem{Lee1990}
+I-Yang Lee.
+\newblock The gammasphere.
+\newblock {\em Nuclear Physics A}, 520:c641 -- c655, 1990.
+\newblock Nuclear Structure in the Nineties.
+
+\bibitem{Svensson2013}
+A.G.~Garnsworthy C.E.~Svensson.
+\newblock Isac and ariel: The triumf radioactive beam facilities and the
+  scientific program.
+\newblock In {\em The GRIFFIN spectrometer}, pages 127--132. Springer, 2013.
+
+\bibitem{Pritychenko2016}
+B.~Pritychenko, M.~Birch, B.~Singh, and M.~Horoi.
+\newblock Tables of $e2$ transition probabilities from the first $2^{+}$ states
+  in even-even nuclei.
+\newblock 2016.
+
+\bibitem{Kibedi2018}
+T.~Kib\'{e}di A.B.~Garnsworthy and J.~Wood.
+\newblock Electric monopole transition strengths in atomic nuclei.
+\newblock {\em In preparation for Atomic Data and Nuclear Data Tables}, 2018.
+
+\bibitem{ENSDF110Pd}
+G.~G$\ddot{u}$rdal and F.~G. Kondev.
+\newblock Evaluated nuclear structure data file.
+\newblock {\em Nuclear Data Sheets}, 113:1315, 2012.
+
+\bibitem{CastenText}
+R.~Casten.
+\newblock {\em Nuclear Structure from a Simple Perspective}.
+\newblock Oxford University Press, 2000.
+
+\bibitem{EvittsParse}
+Lee~J. Evitts.
+\newblock Pens: Parsing ensdf, March 2017.
+
+\bibitem{EvittsThesis}
+Lee~J. Evitts.
+\newblock {\em Electric Monopole Transition Strengths in the Stable Nickel
+  Isotopes}.
+\newblock PhD thesis, 2017.
+
+\bibitem{Duguet2003}
+T~Duguet, M~Bender, P~Bonche, and P.~H Heenen.
+\newblock Shape coexistence in 186pb: beyond-mean-field description by
+  configuration mixing of symmetry restored wave functions.
+\newblock {\em Physics Letters B}, 559(3):201 -- 206, 2003.
+
+\bibitem{KIBEDI2008202}
+T.~Kib\'{e}di, T.W. Burrows, M.B. Trzhaskovskaya, P.M. Davidson, and C.W.
+  Nestor.
+\newblock Evaluation of theoretical conversion coefficients using bricc.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment}, 589(2):202
+  -- 229, 2008.
+
+\bibitem{Hackman14}
+G.~Hackman and C.~E. Svensson.
+\newblock {\em Hyperfine Interact.}, 225(1):241, 2014.
+
+\bibitem{Radford2016}
+D.~Radford.
+\newblock Radware peak fitting, July 2016.
+
+\bibitem{AndrewsText}
+L.~Andrews.
+\newblock {\em Special Functions of Mathematics for Engineers.}
+\newblock SPIE Press, 1992.
+
+\bibitem{Brun1997}
+Rene Brun and Fons Rademakers.
+\newblock Root --- an object oriented data analysis framework.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment}, 389(1):81
+  -- 86, 1997.
+\newblock New Computing Techniques in Physics Research V.
+
+\bibitem{GRSIsort}
+V.~Bildstein et~al.
+\newblock {GRIFFINCollaboration detectorSimulations v10: First production
+  release}.
+
+\bibitem{Geant4}
+J.~Allison et~al.
+\newblock Recent developments in geant4.
+\newblock {\em Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment}, 835:186 --
+  225, 2016.
+
+\bibitem{detectorSimulations}
+V.~Bildstein, M.~Spencer, E.T. Rand, and J.~Turko.
+\newblock {GRIFFINCollaboration detectorSimulations v10: First production
+  release}, December 2017.
+
+\bibitem{GregoryText}
+P.~Gregory.
+\newblock {\em Bayesian Logical Data Analysis for the Physical Sciences: A
+  Comparative Approach with Mathematica{\textregistered} Support}.
+\newblock Cambridge University Press, 2005.
+
+\bibitem{JamesText}
+F.~James.
+\newblock {\em Statistical Methods in Experimental Physics}.
+\newblock World Scientific, 2006.
+
+\bibitem{Peters2016}
+E.~E. et~al Peters.
+\newblock E0 transitions in 106pd: Implications for shape coexistence.
+\newblock {\em The European Physical Journal A}, 52(4):96, Apr 2016.
 
 \end{thebibliography}

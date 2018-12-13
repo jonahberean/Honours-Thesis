@@ -1,34 +1,32 @@
 \BOOKMARK [0][-]{chapter*.1}{Abstract}{}% 1
 \BOOKMARK [0][-]{chapter*.2}{Lay Summary}{}% 2
-\BOOKMARK [0][-]{chapter*.4}{List of Tables}{}% 3
-\BOOKMARK [0][-]{chapter*.5}{List of Figures}{}% 4
-\BOOKMARK [0][-]{chapter*.6}{Glossary}{}% 5
-\BOOKMARK [0][-]{chapter*.7}{Acknowledgments}{}% 6
+\BOOKMARK [0][-]{chapter*.3}{Table of Contents}{}% 3
+\BOOKMARK [0][-]{chapter*.4}{List of Tables}{}% 4
+\BOOKMARK [0][-]{chapter*.5}{List of Figures}{}% 5
+\BOOKMARK [0][-]{chapter*.6}{Acknowledgments}{}% 6
 \BOOKMARK [0][-]{chapter.1}{1 Introduction}{}% 7
 \BOOKMARK [1][-]{section.1.1}{1.1 E0 Transitions}{chapter.1}% 8
-\BOOKMARK [1][-]{section.1.2}{1.2 Gamma-ray and Electron Spectroscopy}{chapter.1}% 9
-\BOOKMARK [1][-]{section.1.3}{1.3 Palladium Isoptopes}{chapter.1}% 10
-\BOOKMARK [0][-]{chapter.2}{2 Theory}{}% 11
-\BOOKMARK [1][-]{section.2.1}{2.1 The Nuclear Shell Model}{chapter.2}% 12
-\BOOKMARK [1][-]{section.2.2}{2.2 Nuclear Reactions}{chapter.2}% 13
-\BOOKMARK [1][-]{section.2.3}{2.3 The Mixing of Nuclear States}{chapter.2}% 14
-\BOOKMARK [1][-]{section.2.4}{2.4 Collective Models of Nuclear Structure}{chapter.2}% 15
+\BOOKMARK [1][-]{section.1.2}{1.2 The Nucleus 110Pd}{chapter.1}% 9
+\BOOKMARK [0][-]{chapter.2}{2 Theory}{}% 10
+\BOOKMARK [1][-]{section.2.1}{2.1 The Nuclear Shell Model}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.2}{2.2 The Mixing of Nuclear States}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.3}{2.3 Collective Models of Nuclear Structure}{chapter.2}% 13
+\BOOKMARK [2][-]{subsection.2.3.1}{2.3.1 Shape Coexistence}{section.2.3}% 14
+\BOOKMARK [1][-]{section.2.4}{2.4 Nuclear Reactions}{chapter.2}% 15
 \BOOKMARK [1][-]{section.2.5}{2.5 Gamma Decay}{chapter.2}% 16
-\BOOKMARK [1][-]{section.2.6}{2.6 Gamma-ray Angular Distributions}{chapter.2}% 17
-\BOOKMARK [1][-]{section.2.7}{2.7 Internal Conversion Decay}{chapter.2}% 18
-\BOOKMARK [1][-]{section.2.8}{2.8 E0 Transitions}{chapter.2}% 19
-\BOOKMARK [0][-]{chapter.3}{3 Experimental Techniques}{}% 20
-\BOOKMARK [1][-]{section.3.1}{3.1 Experimental Details}{chapter.3}% 21
-\BOOKMARK [0][-]{chapter.4}{4 Techniques used for TIGRESS and SPICE Data Analysis}{}% 22
-\BOOKMARK [1][-]{section.4.1}{4.1 Peak Fitting}{chapter.4}% 23
-\BOOKMARK [1][-]{section.4.2}{4.2 Calibration of Detection Efficiency}{chapter.4}% 24
-\BOOKMARK [1][-]{section.4.3}{4.3 Simulated SPICE Efficiency}{chapter.4}% 25
-\BOOKMARK [1][-]{section.4.4}{4.4 Determining Internal Conversion Coefficients}{chapter.4}% 26
-\BOOKMARK [1][-]{section.4.5}{4.5 Determining E0 Transition Strengths, 2\(E0\)}{chapter.4}% 27
-\BOOKMARK [2][-]{subsection.4.5.1}{4.5.1 Monte Carlo Method}{section.4.5}% 28
-\BOOKMARK [2][-]{subsection.4.5.2}{4.5.2 Neyman Construction}{section.4.5}% 29
-\BOOKMARK [0][-]{chapter.5}{5 Results and Discussion}{}% 30
-\BOOKMARK [1][-]{section.5.1}{5.1 Measured Internal Conversion Coefficients}{chapter.5}% 31
-\BOOKMARK [1][-]{section.5.2}{5.2 Measured E0 Transition Strengths}{chapter.5}% 32
-\BOOKMARK [0][-]{chapter.6}{6 Conclusion}{}% 33
-\BOOKMARK [0][-]{chapter*.10}{Bibliography}{}% 34
+\BOOKMARK [1][-]{section.2.6}{2.6 Internal Conversion Decay}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.7}{2.7 E0 Transitions}{chapter.2}% 18
+\BOOKMARK [0][-]{chapter.3}{3 Experimental and Analysis Techniques}{}% 19
+\BOOKMARK [1][-]{section.3.1}{3.1 Experimental Details}{chapter.3}% 20
+\BOOKMARK [1][-]{section.3.2}{3.2 Peak Fitting}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.3}{3.3 Calibration of Detection Efficiency}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.4}{3.4 Simulated SPICE Efficiency}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.5}{3.5 Determining Internal Conversion Coefficients}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.6}{3.6 Determining E0 Transition Strengths}{chapter.3}% 25
+\BOOKMARK [0][-]{chapter.4}{4 Results and Discussion}{}% 26
+\BOOKMARK [1][-]{section.4.1}{4.1 Measured Internal Conversion Coefficients}{chapter.4}% 27
+\BOOKMARK [1][-]{section.4.2}{4.2 Measured E0 Transition Strengths}{chapter.4}% 28
+\BOOKMARK [0][-]{chapter.5}{5 Conclusion}{}% 29
+\BOOKMARK [0][-]{chapter.6}{6 List of Publications}{}% 30
+\BOOKMARK [1][-]{section.6.1}{6.1 First Author Peer-Reviewed Publications}{chapter.6}% 31
+\BOOKMARK [0][-]{chapter*.29}{Bibliography}{}% 32

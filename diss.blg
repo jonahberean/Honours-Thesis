@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: diss.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: laysummary.aux
+A level-1 auxiliary file: ack.aux
+A level-1 auxiliary file: intro.aux
+A level-1 auxiliary file: theory.aux
+A level-1 auxiliary file: techniques.aux
+A level-1 auxiliary file: results.aux
+A level-1 auxiliary file: conclusion.aux
+A level-1 auxiliary file: appendix.aux
+The style file: unsrt.bst
+Database file #1: biblio.bib
+Warning--empty journal in Pritychenko2016
+Warning--empty school in EvittsThesis
+Warning--empty title in Hackman14
+You've used 28 entries,
+            1791 wiz_defined-function locations,
+            642 strings with 7830 characters,
+and the built_in function-call counts, 5882 in all, are:
+= -- 478
+> -- 285
+< -- 1
++ -- 109
+- -- 81
+* -- 395
+:= -- 966
+add.period$ -- 82
+call.type$ -- 28
+change.case$ -- 21
+chr.to.int$ -- 0
+cite$ -- 31
+duplicate$ -- 250
+empty$ -- 597
+format.name$ -- 81
+if$ -- 1296
+int.to.chr$ -- 0
+int.to.str$ -- 28
+missing$ -- 28
+newline$ -- 140
+num.names$ -- 28
+pop$ -- 92
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 102
+stack$ -- 0
+substring$ -- 354
+swap$ -- 36
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 47
+width$ -- 30
+write$ -- 291
+(There were 3 warnings)

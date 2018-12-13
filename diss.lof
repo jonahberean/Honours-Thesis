@@ -1,0 +1,26 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces A comparison between literature values of $B(E2)$ and $\rho ^2(E0)$ from across the nuclear chart.}}{4}{figure.caption.7}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Partial level scheme for the nucleus $^{110}$Pd with a previous measurement of $\rho ^2(E0)$ highlighted.}}{5}{figure.caption.8}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces The difference between the experimental two-neutron separation energy, $S_{2n}$, parsed from the evaluated nuclear data sheets \cite {EvittsParse} and the value obtained from the semi-empirical mass formula \cite {KraneText}.}}{7}{figure.caption.9}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The energy levels yielded by solving the 3-D Schr\"odinger Equation (\ref {equation: 3D schrodinger}) for three different theoretical energy potential approximations: harmonic oscillator, Woods-Saxon, and Woods-Saxon with spin-orbit coupling.}}{9}{figure.caption.10}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Diagram of a two-state mixing interaction \cite {KraneText}. Image from \cite {EvittsThesis}.}}{10}{figure.caption.11}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces The ratio of $4^+_1$ to $2^+_1$ empirical energies for each nuclide across the chart \cite {EvittsParse}.}}{13}{figure.caption.12}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces The potential energy surface for $^{186}\mathrm {Pb}$ is plotted as a function of nuclear shape deformation. Three distinct minima, corresponding to three distinct nuclear structures, are highlighted.}}{14}{figure.caption.13}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Schematic diagram of the experimental apparatus used in the June 2016 $\alpha $ particle scattering experiment at TRIUMF's ISAC-II facility.}}{22}{figure.caption.14}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces A chart of nuclides in the region of $^{110}\mathrm {Pd}$; highlighting the nuclei observed in the experiment.}}{23}{figure.caption.15}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces The $\alpha $-particle gated $\gamma $-ray spectrum and the $\alpha $-particle gated $e^-$ spectrum.}}{24}{figure.caption.16}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces An example of simultaneously fitting three peaks in the $\alpha $-energy gated $e^-$ data. The $K$ to $L$ peak intensity ratios are unconstrained.}}{26}{figure.caption.17}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces An example of simultaneously fitting seven peaks in the $\alpha $-energy gated $e^-$ data. The $K$ to $L$ peak intensity ratios are constrained.}}{27}{figure.caption.18}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces $\Delta E - E$ particle identification plot from the S3 telescope.}}{33}{figure.caption.19}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces A simulation of the SPICE detection efficiency using the Geant4 toolkit.}}{34}{figure.caption.20}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces The efficiency values and $K$ $e^-$ peak energies for several transitions are plotted and fit by an exponential scaling of the simulated SPICE efficiency curve.}}{35}{figure.caption.21}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces An example distribution of $\rho ^2(E0)$for the $2_2^+ \rightarrow 2_1^+$ transition in $^{110}\mathrm {Pd}$, produced by the Monte Carlo method.}}{36}{figure.caption.24}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces An example of the Neyman Construction produced using the distribution of Figure \ref {figure: Monte Carlo distribution}.}}{37}{figure.caption.25}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
